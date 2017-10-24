@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bank-objects", "bank-objects\bank-objects.csproj", "{B71F51DD-955C-4E21-9F03-CA511F59CAD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "database-handling", "database-handling\database-handling.csproj", "{7D6C9F5F-2EAC-4EBE-91DA-740A7CEC2CCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B71F51DD-955C-4E21-9F03-CA511F59CAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71F51DD-955C-4E21-9F03-CA511F59CAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71F51DD-955C-4E21-9F03-CA511F59CAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71F51DD-955C-4E21-9F03-CA511F59CAD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D6C9F5F-2EAC-4EBE-91DA-740A7CEC2CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6C9F5F-2EAC-4EBE-91DA-740A7CEC2CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6C9F5F-2EAC-4EBE-91DA-740A7CEC2CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D6C9F5F-2EAC-4EBE-91DA-740A7CEC2CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {436C3903-2631-4D71-B442-E93115153B1A}
+	EndGlobalSection
+EndGlobal

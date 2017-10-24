@@ -1,0 +1,9 @@
+C:\dev\bank-objects\database-handling\bin\Debug\netcoreapp2.0\database-handling.deps.json
+C:\dev\bank-objects\database-handling\bin\Debug\netcoreapp2.0\database-handling.dll
+C:\dev\bank-objects\database-handling\obj\Debug\netcoreapp2.0\database-handling.csproj.CoreCompileInputs.cache
+C:\dev\bank-objects\database-handling\obj\Debug\netcoreapp2.0\database-handling.AssemblyInfoInputs.cache
+C:\dev\bank-objects\database-handling\obj\Debug\netcoreapp2.0\database-handling.AssemblyInfo.cs
+C:\dev\bank-objects\database-handling\bin\Debug\netcoreapp2.0\database-handling.pdb
+C:\dev\bank-objects\database-handling\obj\Debug\netcoreapp2.0\database-handling.csprojResolveAssemblyReference.cache
+C:\dev\bank-objects\database-handling\obj\Debug\netcoreapp2.0\database-handling.dll
+C:\dev\bank-objects\database-handling\obj\Debug\netcoreapp2.0\database-handling.pdb

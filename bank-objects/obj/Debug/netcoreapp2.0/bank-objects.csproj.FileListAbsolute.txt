@@ -1,0 +1,13 @@
+C:\dev\bank-objects\bank-objects\bin\Debug\netcoreapp2.0\bank-objects.deps.json
+C:\dev\bank-objects\bank-objects\bin\Debug\netcoreapp2.0\bank-objects.runtimeconfig.json
+C:\dev\bank-objects\bank-objects\bin\Debug\netcoreapp2.0\bank-objects.runtimeconfig.dev.json
+C:\dev\bank-objects\bank-objects\bin\Debug\netcoreapp2.0\bank-objects.dll
+C:\dev\bank-objects\bank-objects\obj\Debug\netcoreapp2.0\bank-objects.csprojResolveAssemblyReference.cache
+C:\dev\bank-objects\bank-objects\obj\Debug\netcoreapp2.0\bank-objects.csproj.CoreCompileInputs.cache
+C:\dev\bank-objects\bank-objects\obj\Debug\netcoreapp2.0\bank-objects.AssemblyInfoInputs.cache
+C:\dev\bank-objects\bank-objects\obj\Debug\netcoreapp2.0\bank-objects.AssemblyInfo.cs
+C:\dev\bank-objects\bank-objects\bin\Debug\netcoreapp2.0\bank-objects.pdb
+C:\dev\bank-objects\bank-objects\bin\Debug\netcoreapp2.0\database-handling.dll
+C:\dev\bank-objects\bank-objects\bin\Debug\netcoreapp2.0\database-handling.pdb
+C:\dev\bank-objects\bank-objects\obj\Debug\netcoreapp2.0\bank-objects.dll
+C:\dev\bank-objects\bank-objects\obj\Debug\netcoreapp2.0\bank-objects.pdb
